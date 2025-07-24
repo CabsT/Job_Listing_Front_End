@@ -1,7 +1,7 @@
 ﻿# Job-listing-frontend
 
 ##Contributors:
-
+```Charne Teichert```
 ```Gontse Moshidi```
-```Charne Teichert``` 
-##URL for website: https://joblinker.onrender.com/
+ 
+##URL for website: https://joblistingui.netlify.app
